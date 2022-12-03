@@ -1,3 +1,7 @@
+"""
+    ? Problem Statement: Q8 of assignment 1.
+"""
+
 def get_sum_of_the_series(max_base: int, max_power: int) -> int:
     sum = 0
     
