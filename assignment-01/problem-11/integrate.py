@@ -11,7 +11,7 @@ def integrate (lower_range, upper_range, grid_divisions):
  
     i = 1
     while i < grid_divisions:
-        s += 2 * f(lower_range + i * grid_space)
+        sum += 2 * f(lower_range + i * grid_space)
         i += 1
          
     
